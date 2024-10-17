@@ -1,0 +1,26 @@
+[
+    {
+      "title": "E-Gram Panchayat",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to handle local governance in gram panchayat where users can apply to to various services and it is handled by the staffs or officer of the gram panchayat.",
+      "skills": ["React", "CSS", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kumar-aryan083/EGram-Panchayat"
+    },
+    {
+      "title": "Blog Website",
+      "imageSrc": "projects/project.png",
+      "description": "This project is a Blog web application where admins can post blogs and user has the access to all blogs as well as category wise blogs and they can like, dislike, comment on all blogs.",
+      "skills": ["React", "CSS", "Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kumar-aryan083/Blog-Website"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/project.png",
+      "description": "This project is made to learn how to integrate 3rd party API and render data according to the information received from the API. In this project user can see weather details based on city.",
+      "skills": ["React", "HTML", "CSS", "openweathermap API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/kumar-aryan083/weather-app"
+    }
+  ]
